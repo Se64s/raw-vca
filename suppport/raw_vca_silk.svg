@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="raw_vca_silk.svg"
+   inkscape:export-filename="D:\00_projects\29_erika_synth_basic\01_pcb\01_vca\pcb_v1.0\raw_vca\suppport\raw_vca_silk.png"
+   inkscape:export-xdpi="499.98001"
+   inkscape:export-ydpi="499.98001">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="97.310232"
+     inkscape:cy="240.03542"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="PCB"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g2033"
+       transform="matrix(9.9999996e-7,0,0,9.9999996e-7,25.978565,12.039193)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g837" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g839" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g981">
+        <text
+           x="47905200"
+           y="68495000"
+           transform="matrix(-1,0,0,1,95810400,0)"
+           textLength="1564286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text841">J6</text>
+        <g
+           class="stroked-text"
+           id="g849">
+          <desc
+             id="desc843">J6</desc>
+          <path
+             d="m 47571867,67447380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path845" />
+          <path
+             d="m 48476629,67447380 h -190476 l -95238,47620 -47619,47619 -95238,142857 -47619,190476 v 380952 l 47619,95238 47619,47619 95238,47619 h 190476 l 95238,-47619 47619,-47619 47619,-95238 v -238095 l -47619,-95238 -47619,-47619 -95238,-47619 h -190476 l -95238,47619 -47619,47619 -47619,95238"
+             id="path847" />
+        </g>
+        <text
+           x="9678200"
+           y="68368000"
+           transform="matrix(-1,0,0,1,19356400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text851">J2</text>
+        <g
+           class="stroked-text"
+           id="g859">
+          <desc
+             id="desc853">J2</desc>
+          <path
+             d="m 9344867,67320380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path855" />
+          <path
+             d="m 9773439,67415619 47619,-47619 95238,-47620 h 238095 l 95238,47620 47619,47619 47619,95238 v 95238 l -47619,142857 -571428,571428 h 619047"
+             id="path857" />
+        </g>
+        <text
+           x="20981200"
+           y="35348000"
+           transform="matrix(-1,0,0,1,41962400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text861">J5</text>
+        <g
+           class="stroked-text"
+           id="g869">
+          <desc
+             id="desc863">J5</desc>
+          <path
+             d="m 20647867,34300380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path865" />
+          <path
+             d="m 21600248,34300380 h -476190 l -47619,476191 47619,-47619 95238,-47619 h 238095 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -238095 l -95238,-47619 -47619,-47619"
+             id="path867" />
+        </g>
+        <text
+           x="9678200"
+           y="35475000"
+           transform="matrix(-1,0,0,1,19356400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text871">J4</text>
+        <g
+           class="stroked-text"
+           id="g881">
+          <desc
+             id="desc873">J4</desc>
+          <path
+             d="m 9344867,34427380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path875" />
+          <path
+             d="m 10249629,34760714 v 666666"
+             id="path877" />
+          <path
+             d="m 10011534,34379761 -238095,714286 h 619047"
+             id="path879" />
+        </g>
+        <text
+           x="34951200"
+           y="69511000"
+           transform="matrix(-1,0,0,1,69902400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text883">RV1</text>
+        <g
+           class="stroked-text"
+           id="g897">
+          <desc
+             id="desc885">RV1</desc>
+          <path
+             d="m 34355962,69463380 -333333,-476190"
+             id="path887" />
+          <path
+             d="m 33784534,69463380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path889" />
+          <path
+             d="m 34641677,68463380 333333,1000000 333333,-1000000"
+             id="path891" />
+          <path
+             d="m 36165486,69463380 h -571428"
+             id="path893" />
+          <path
+             d="m 35879772,69463380 v -1000000 l -95238,142858 -95238,95238 -95238,47619"
+             id="path895" />
+        </g>
+        <text
+           x="47778200"
+           y="35475000"
+           transform="matrix(-1,0,0,1,95556400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text899">J7</text>
+        <g
+           class="stroked-text"
+           id="g907">
+          <desc
+             id="desc901">J7</desc>
+          <path
+             d="m 47444867,34427380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path903" />
+          <path
+             d="m 47825820,34427380 h 666666 l -428571,1000000"
+             id="path905" />
+        </g>
+        <text
+           x="9805200"
+           y="101515000"
+           transform="matrix(-1,0,0,1,19610400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text909">J8</text>
+        <g
+           class="stroked-text"
+           id="g917">
+          <desc
+             id="desc911">J8</desc>
+          <path
+             d="m 9471867,100467380 v 714290 l -47619,142850 -95238,95240 -142857,47620 h -95238"
+             id="path913" />
+          <path
+             d="m 10090915,100895950 -95238,-47620 -47619,-47620 -47619,-95230 v -47620 l 47619,-95240 47619,-47620 95238,-47620 h 190476 l 95238,47620 47619,47620 47619,95240 v 47620 l -47619,95230 -47619,47620 -95238,47620 h -190476 l -95238,47620 -47619,47620 -47619,95240 v 190470 l 47619,95240 47619,47620 95238,47620 h 190476 l 95238,-47620 47619,-47620 47619,-95240 v -190470 l -47619,-95240 -47619,-47620 -95238,-47620"
+             id="path915" />
+        </g>
+        <text
+           x="21108200"
+           y="101388000"
+           transform="matrix(-1,0,0,1,42216400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text919">J9</text>
+        <g
+           class="stroked-text"
+           id="g927">
+          <desc
+             id="desc921">J9</desc>
+          <path
+             d="m 20774867,100340380 v 714290 l -47619,142850 -95238,95240 -142857,47620 h -95238"
+             id="path923" />
+          <path
+             d="m 21298677,101340380 h 190476 l 95238,-47620 47619,-47620 95238,-142850 47619,-190480 v -380950 l -47619,-95240 -47619,-47620 -95238,-47620 h -190476 l -95238,47620 -47619,47620 -47619,95240 v 238090 l 47619,95240 47619,47620 95238,47620 h 190476 l 95238,-47620 47619,-47620 47619,-95240"
+             id="path925" />
+        </g>
+        <text
+           x="34951200"
+           y="102404000"
+           transform="matrix(-1,0,0,1,69902400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text929">RV3</text>
+        <g
+           class="stroked-text"
+           id="g941">
+          <desc
+             id="desc931">RV3</desc>
+          <path
+             d="m 34355962,102356380 -333333,-476190"
+             id="path933" />
+          <path
+             d="m 33784534,102356380 v -1000000 h 380952 l 95238,47620 47619,47620 47619,95240 v 142850 l -47619,95240 -47619,47620 -95238,47620 h -380952"
+             id="path935" />
+          <path
+             d="m 34641677,101356380 333333,1000000 333333,-1000000"
+             id="path937" />
+          <path
+             d="m 35546439,101356380 h 619047 l -333333,380950 h 142857 l 95238,47620 47619,47620 47619,95240 v 238090 l -47619,95240 -47619,47620 -95238,47620 h -285714 l -95238,-47620 -47619,-47620"
+             id="path939" />
+        </g>
+        <text
+           x="47397200"
+           y="101388000"
+           transform="matrix(-1,0,0,1,94794400,0)"
+           textLength="2471667"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text943">J10</text>
+        <g
+           class="stroked-text"
+           id="g955">
+          <desc
+             id="desc945">J10</desc>
+          <path
+             d="m 46587677,100340380 v 714290 l -47619,142850 -95238,95240 -142858,47620 h -95238"
+             id="path947" />
+          <path
+             d="m 47587677,101340380 h -571429"
+             id="path949" />
+          <path
+             d="m 47301962,101340380 v -1000000 l -95238,142860 -95238,95240 -95238,47620"
+             id="path951" />
+          <path
+             d="m 48206724,100340380 h 95238 l 95238,47620 47620,47620 47619,95240 47619,190470 v 238100 l -47619,190470 -47619,95240 -47620,47620 -95238,47620 h -95238 l -95238,-47620 -47619,-47620 -47619,-95240 -47619,-190470 v -238100 l 47619,-190470 47619,-95240 47619,-47620 95238,-47620"
+             id="path953" />
+        </g>
+        <text
+           x="34824200"
+           y="36364000"
+           transform="matrix(-1,0,0,1,69648400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text957">RV2</text>
+        <g
+           class="stroked-text"
+           id="g969">
+          <desc
+             id="desc959">RV2</desc>
+          <path
+             d="m 34228962,36316380 -333333,-476190"
+             id="path961" />
+          <path
+             d="m 33657534,36316380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path963" />
+          <path
+             d="m 34514677,35316380 333333,1000000 333333,-1000000"
+             id="path965" />
+          <path
+             d="m 35467058,35411619 47619,-47619 95238,-47620 h 238095 l 95238,47620 47619,47619 47619,95238 v 95238 l -47619,142857 -571428,571428 h 619047"
+             id="path967" />
+        </g>
+        <text
+           x="21235200"
+           y="68495000"
+           transform="matrix(-1,0,0,1,42470400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text971">J3</text>
+        <g
+           class="stroked-text"
+           id="g979">
+          <desc
+             id="desc973">J3</desc>
+          <path
+             d="m 20901867,67447380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path975" />
+          <path
+             d="m 21282820,67447380 h 619047 l -333333,380953 h 142857 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -285714 l -95238,-47619 -47619,-47619"
+             id="path977" />
+        </g>
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:120000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1403">
+        <path
+           d="m 45536200,71854000 v -800000"
+           id="path983" />
+        <path
+           d="m 39976200,58374000 h 4000000"
+           id="path985" />
+        <path
+           d="m 45536200,71854000 h -860000"
+           id="path987" />
+        <path
+           d="M 48976200,68874000 V 58374000"
+           id="path989" />
+        <path
+           d="m 44826200,68874000 h 4150000"
+           id="path991" />
+        <path
+           d="m 44976200,58374000 h 4000000"
+           id="path993" />
+        <path
+           d="M 39976200,68874000 V 58374000"
+           id="path995" />
+        <path
+           d="m 39976200,68874000 h 4150000"
+           id="path997" />
+        <circle
+           cx="44476200"
+           cy="64374000"
+           r="1800000"
+           id="circle999" />
+        <path
+           d="M 1876200,68874000 V 58374000"
+           id="path1001" />
+        <path
+           d="M 1876200,58374000 H 5876200"
+           id="path1003" />
+        <path
+           d="m 7436200,71854000 v -800000"
+           id="path1005" />
+        <path
+           d="M 10876200,68874000 V 58374000"
+           id="path1007" />
+        <path
+           d="M 1876200,68874000 H 6026200"
+           id="path1009" />
+        <path
+           d="m 6876200,58374000 h 4000000"
+           id="path1011" />
+        <path
+           d="M 7436200,71854000 H 6576200"
+           id="path1013" />
+        <path
+           d="m 6726200,68874000 h 4150000"
+           id="path1015" />
+        <circle
+           cx="6376200"
+           cy="64374000"
+           r="1800000"
+           id="circle1017" />
+        <circle
+           cx="17806200"
+           cy="31354000"
+           r="1800000"
+           id="circle1019" />
+        <path
+           d="m 18866200,38834000 h -860000"
+           id="path1021" />
+        <path
+           d="m 18866200,38834000 v -800000"
+           id="path1023" />
+        <path
+           d="m 13306200,35854000 h 4150000"
+           id="path1025" />
+        <path
+           d="m 13306200,25354000 h 4000000"
+           id="path1027" />
+        <path
+           d="M 22306200,35854000 V 25354000"
+           id="path1029" />
+        <path
+           d="M 13306200,35854000 V 25354000"
+           id="path1031" />
+        <path
+           d="m 18156200,35854000 h 4150000"
+           id="path1033" />
+        <path
+           d="m 18306200,25354000 h 4000000"
+           id="path1035" />
+        <path
+           d="m 6726200,35854000 h 4150000"
+           id="path1037" />
+        <path
+           d="M 7436200,38834000 H 6576200"
+           id="path1039" />
+        <path
+           d="M 1876200,35854000 H 6026200"
+           id="path1041" />
+        <path
+           d="m 6876200,25354000 h 4000000"
+           id="path1043" />
+        <path
+           d="m 7436200,38834000 v -800000"
+           id="path1045" />
+        <path
+           d="M 1876200,25354000 H 5876200"
+           id="path1047" />
+        <path
+           d="M 1876200,35854000 V 25354000"
+           id="path1049" />
+        <path
+           d="M 10876200,35854000 V 25354000"
+           id="path1051" />
+        <circle
+           cx="6376200"
+           cy="31354000"
+           r="1800000"
+           id="circle1053" />
+        <path
+           d="m 30986200,69919000 h -530000"
+           id="path1055" />
+        <path
+           d="m 33436200,69919000 h -830000"
+           id="path1057" />
+        <path
+           d="M 36646200,58329000 H 26906200"
+           id="path1059" />
+        <path
+           d="M 28086200,69919000 H 26906200"
+           id="path1061" />
+        <path
+           d="M 26906200,61389000 V 58329000"
+           id="path1063" />
+        <path
+           d="M 36646200,69919000 V 65199000"
+           id="path1065" />
+        <path
+           d="M 36646200,61389000 V 58329000"
+           id="path1067" />
+        <path
+           d="M 36646200,69919000 H 35156200"
+           id="path1069" />
+        <path
+           d="M 26896200,69919000 V 65199000"
+           id="path1071" />
+        <circle
+           cx="44476200"
+           cy="31354000"
+           r="1800000"
+           id="circle1073" />
+        <path
+           d="M 39976200,35854000 V 25354000"
+           id="path1075" />
+        <path
+           d="m 44976200,25354000 h 4000000"
+           id="path1077" />
+        <path
+           d="m 39976200,35854000 h 4150000"
+           id="path1079" />
+        <path
+           d="m 39976200,25354000 h 4000000"
+           id="path1081" />
+        <path
+           d="M 48976200,35854000 V 25354000"
+           id="path1083" />
+        <path
+           d="m 45536200,38834000 h -860000"
+           id="path1085" />
+        <path
+           d="m 44826200,35854000 h 4150000"
+           id="path1087" />
+        <path
+           d="m 45536200,38834000 v -800000"
+           id="path1089" />
+        <path
+           d="m 6726200,101894000 h 4150000"
+           id="path1091" />
+        <path
+           d="M 7436200,104874000 H 6576200"
+           id="path1093" />
+        <path
+           d="m 7436200,104874000 v -800000"
+           id="path1095" />
+        <path
+           d="M 1876200,101894000 H 6026200"
+           id="path1097" />
+        <path
+           d="M 10876200,101894000 V 91394000"
+           id="path1099" />
+        <path
+           d="m 6876200,91394000 h 4000000"
+           id="path1101" />
+        <path
+           d="M 1876200,101894000 V 91394000"
+           id="path1103" />
+        <path
+           d="M 1876200,91394000 H 5876200"
+           id="path1105" />
+        <circle
+           cx="6376200"
+           cy="97394000"
+           r="1800000"
+           id="circle1107" />
+        <path
+           d="m 18156200,101894000 h 4150000"
+           id="path1109" />
+        <path
+           d="M 22306200,101894000 V 91394000"
+           id="path1111" />
+        <path
+           d="m 18866200,104874000 v -800000"
+           id="path1113" />
+        <path
+           d="m 18866200,104874000 h -860000"
+           id="path1115" />
+        <path
+           d="m 13306200,91394000 h 4000000"
+           id="path1117" />
+        <path
+           d="m 18306200,91394000 h 4000000"
+           id="path1119" />
+        <path
+           d="m 13306200,101894000 h 4150000"
+           id="path1121" />
+        <path
+           d="M 13306200,101894000 V 91394000"
+           id="path1123" />
+        <circle
+           cx="17806200"
+           cy="97394000"
+           r="1800000"
+           id="circle1125" />
+        <path
+           d="m 33436200,102939000 h -830000"
+           id="path1127" />
+        <path
+           d="M 36646200,94409000 V 91349000"
+           id="path1129" />
+        <path
+           d="M 26896200,102939000 V 98219000"
+           id="path1131" />
+        <path
+           d="M 36646200,91349000 H 26906200"
+           id="path1133" />
+        <path
+           d="m 30986200,102939000 h -530000"
+           id="path1135" />
+        <path
+           d="M 36646200,102939000 V 98219000"
+           id="path1137" />
+        <path
+           d="M 28086200,102939000 H 26906200"
+           id="path1139" />
+        <path
+           d="M 36646200,102939000 H 35156200"
+           id="path1141" />
+        <path
+           d="M 26906200,94409000 V 91349000"
+           id="path1143" />
+        <path
+           d="m 39976200,101894000 h 4150000"
+           id="path1145" />
+        <path
+           d="m 45536200,104874000 h -860000"
+           id="path1147" />
+        <path
+           d="M 39976200,101894000 V 91394000"
+           id="path1149" />
+        <path
+           d="m 39976200,91394000 h 4000000"
+           id="path1151" />
+        <path
+           d="m 44826200,101894000 h 4150000"
+           id="path1153" />
+        <path
+           d="m 44976200,91394000 h 4000000"
+           id="path1155" />
+        <path
+           d="m 45536200,104874000 v -800000"
+           id="path1157" />
+        <path
+           d="M 48976200,101894000 V 91394000"
+           id="path1159" />
+        <circle
+           cx="44476200"
+           cy="97394000"
+           r="1800000"
+           id="circle1161" />
+        <path
+           d="m 30986200,36899000 h -530000"
+           id="path1163" />
+        <path
+           d="M 36646200,36899000 V 32179000"
+           id="path1165" />
+        <path
+           d="M 36646200,36899000 H 35156200"
+           id="path1167" />
+        <path
+           d="M 28086200,36899000 H 26906200"
+           id="path1169" />
+        <path
+           d="M 26906200,28369000 V 25309000"
+           id="path1171" />
+        <path
+           d="M 36646200,25309000 H 26906200"
+           id="path1173" />
+        <path
+           d="M 36646200,28369000 V 25309000"
+           id="path1175" />
+        <path
+           d="M 26896200,36899000 V 32179000"
+           id="path1177" />
+        <path
+           d="m 33436200,36899000 h -830000"
+           id="path1179" />
+        <path
+           d="m 18866200,71854000 h -860000"
+           id="path1181" />
+        <path
+           d="M 13306200,68874000 V 58374000"
+           id="path1183" />
+        <path
+           d="m 13306200,58374000 h 4000000"
+           id="path1185" />
+        <path
+           d="m 18156200,68874000 h 4150000"
+           id="path1187" />
+        <path
+           d="m 18866200,71854000 v -800000"
+           id="path1189" />
+        <path
+           d="m 18306200,58374000 h 4000000"
+           id="path1191" />
+        <path
+           d="m 13306200,68874000 h 4150000"
+           id="path1193" />
+        <path
+           d="M 22306200,68874000 V 58374000"
+           id="path1195" />
+        <circle
+           cx="17806200"
+           cy="64374000"
+           r="1800000"
+           id="circle1197" />
+        <g
+           id="g1199" />
+        <g
+           id="g1201" />
+        <g
+           id="g1203" />
+        <g
+           id="g1205" />
+        <g
+           id="g1207" />
+        <g
+           id="g1209" />
+        <g
+           id="g1211" />
+        <g
+           id="g1213" />
+        <g
+           id="g1215" />
+        <g
+           id="g1217" />
+        <g
+           id="g1219" />
+        <g
+           id="g1221" />
+        <g
+           id="g1223" />
+        <g
+           id="g1225" />
+        <g
+           id="g1227" />
+        <g
+           id="g1229" />
+        <g
+           id="g1231" />
+        <g
+           id="g1233" />
+        <g
+           id="g1235" />
+        <g
+           id="g1237" />
+        <g
+           id="g1239" />
+        <g
+           id="g1241" />
+        <g
+           id="g1243" />
+        <g
+           id="g1245" />
+        <g
+           id="g1247" />
+        <g
+           id="g1249" />
+        <g
+           id="g1251" />
+        <g
+           id="g1253" />
+        <g
+           id="g1255" />
+        <g
+           id="g1257" />
+        <g
+           id="g1259" />
+        <g
+           id="g1261" />
+        <g
+           id="g1263" />
+        <g
+           id="g1265" />
+        <g
+           id="g1267" />
+        <g
+           id="g1269" />
+        <g
+           id="g1271" />
+        <g
+           id="g1273" />
+        <g
+           id="g1275" />
+        <g
+           id="g1277" />
+        <g
+           id="g1279" />
+        <g
+           id="g1281" />
+        <g
+           id="g1283" />
+        <g
+           id="g1285" />
+        <g
+           id="g1287" />
+        <g
+           id="g1289" />
+        <g
+           id="g1291" />
+        <g
+           id="g1293" />
+        <g
+           id="g1295" />
+        <g
+           id="g1297" />
+        <g
+           id="g1299" />
+        <g
+           id="g1301" />
+        <g
+           id="g1303" />
+        <g
+           id="g1305" />
+        <g
+           id="g1307" />
+        <g
+           id="g1309" />
+        <g
+           id="g1311" />
+        <g
+           id="g1313" />
+        <g
+           id="g1315" />
+        <g
+           id="g1317" />
+        <g
+           id="g1319" />
+        <g
+           id="g1321" />
+        <g
+           id="g1323" />
+        <g
+           id="g1325" />
+        <g
+           id="g1327" />
+        <g
+           id="g1329" />
+        <g
+           id="g1331" />
+        <g
+           id="g1333" />
+        <g
+           id="g1335" />
+        <g
+           id="g1337" />
+        <g
+           id="g1339" />
+        <g
+           id="g1341" />
+        <g
+           id="g1343" />
+        <g
+           id="g1345" />
+        <g
+           id="g1347" />
+        <g
+           id="g1349" />
+        <g
+           id="g1351" />
+        <g
+           id="g1353" />
+        <g
+           id="g1355" />
+        <g
+           id="g1357" />
+        <g
+           id="g1359" />
+        <g
+           id="g1361" />
+        <g
+           id="g1363" />
+        <g
+           id="g1365" />
+        <g
+           id="g1367" />
+        <g
+           id="g1369" />
+        <g
+           id="g1371" />
+        <g
+           id="g1373" />
+        <g
+           id="g1375" />
+        <g
+           id="g1377" />
+        <g
+           id="g1379" />
+        <g
+           id="g1381" />
+        <g
+           id="g1383" />
+        <g
+           id="g1385" />
+        <g
+           id="g1387" />
+        <g
+           id="g1389" />
+        <g
+           id="g1391" />
+        <g
+           id="g1393" />
+        <g
+           id="g1395" />
+        <g
+           id="g1397" />
+        <g
+           id="g1399" />
+        <g
+           id="g1401" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:120000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1405" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g1627">
+        <path
+           d="M 26200,128574000 V 50000"
+           id="path1407" />
+        <circle
+           cx="7519200"
+           cy="125526000"
+           r="1600200"
+           id="circle1409" />
+        <path
+           d="M 26200,50000 H 50826200"
+           id="path1411" />
+        <circle
+           cx="43333200"
+           cy="125526000"
+           r="1600200"
+           id="circle1413" />
+        <path
+           d="M 26200,128574000 H 50826200"
+           id="path1415" />
+        <circle
+           cx="43333200"
+           cy="3098000"
+           r="1600200"
+           id="circle1417" />
+        <circle
+           cx="7519200"
+           cy="3098000"
+           r="1600200"
+           id="circle1419" />
+        <path
+           d="M 50826200,50000 V 128574000"
+           id="path1421" />
+        <g
+           id="g1423" />
+        <g
+           id="g1425" />
+        <g
+           id="g1427" />
+        <g
+           id="g1429" />
+        <g
+           id="g1431" />
+        <g
+           id="g1433" />
+        <g
+           id="g1435" />
+        <g
+           id="g1437" />
+        <g
+           id="g1439" />
+        <g
+           id="g1441" />
+        <g
+           id="g1443" />
+        <g
+           id="g1445" />
+        <g
+           id="g1447" />
+        <g
+           id="g1449" />
+        <g
+           id="g1451" />
+        <g
+           id="g1453" />
+        <g
+           id="g1455" />
+        <g
+           id="g1457" />
+        <g
+           id="g1459" />
+        <g
+           id="g1461" />
+        <g
+           id="g1463" />
+        <g
+           id="g1465" />
+        <g
+           id="g1467" />
+        <g
+           id="g1469" />
+        <g
+           id="g1471" />
+        <g
+           id="g1473" />
+        <g
+           id="g1475" />
+        <g
+           id="g1477" />
+        <g
+           id="g1479" />
+        <g
+           id="g1481" />
+        <g
+           id="g1483" />
+        <g
+           id="g1485" />
+        <g
+           id="g1487" />
+        <g
+           id="g1489" />
+        <g
+           id="g1491" />
+        <g
+           id="g1493" />
+        <g
+           id="g1495" />
+        <g
+           id="g1497" />
+        <g
+           id="g1499" />
+        <g
+           id="g1501" />
+        <g
+           id="g1503" />
+        <g
+           id="g1505" />
+        <g
+           id="g1507" />
+        <g
+           id="g1509" />
+        <g
+           id="g1511" />
+        <g
+           id="g1513" />
+        <g
+           id="g1515" />
+        <g
+           id="g1517" />
+        <g
+           id="g1519" />
+        <g
+           id="g1521" />
+        <g
+           id="g1523" />
+        <g
+           id="g1525" />
+        <g
+           id="g1527" />
+        <g
+           id="g1529" />
+        <g
+           id="g1531" />
+        <g
+           id="g1533" />
+        <g
+           id="g1535" />
+        <g
+           id="g1537" />
+        <g
+           id="g1539" />
+        <g
+           id="g1541" />
+        <g
+           id="g1543" />
+        <g
+           id="g1545" />
+        <g
+           id="g1547" />
+        <g
+           id="g1549" />
+        <g
+           id="g1551" />
+        <g
+           id="g1553" />
+        <g
+           id="g1555" />
+        <g
+           id="g1557" />
+        <g
+           id="g1559" />
+        <g
+           id="g1561" />
+        <g
+           id="g1563" />
+        <g
+           id="g1565" />
+        <g
+           id="g1567" />
+        <g
+           id="g1569" />
+        <g
+           id="g1571" />
+        <g
+           id="g1573" />
+        <g
+           id="g1575" />
+        <g
+           id="g1577" />
+        <g
+           id="g1579" />
+        <g
+           id="g1581" />
+        <g
+           id="g1583" />
+        <g
+           id="g1585" />
+        <g
+           id="g1587" />
+        <g
+           id="g1589" />
+        <g
+           id="g1591" />
+        <g
+           id="g1593" />
+        <g
+           id="g1595" />
+        <g
+           id="g1597" />
+        <g
+           id="g1599" />
+        <g
+           id="g1601" />
+        <g
+           id="g1603" />
+        <g
+           id="g1605" />
+        <g
+           id="g1607" />
+        <g
+           id="g1609" />
+        <g
+           id="g1611" />
+        <g
+           id="g1613" />
+        <g
+           id="g1615" />
+        <g
+           id="g1617" />
+        <g
+           id="g1619" />
+        <g
+           id="g1621" />
+        <g
+           id="g1623" />
+        <g
+           id="g1625" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SILK">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="45.6082"
+       y="24.529314"
+       id="text2038"><tspan
+         sodipodi:role="line"
+         id="tspan2036"
+         x="45.6082"
+         y="24.529314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">VCA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="40.99749"
+       y="135.84575"
+       id="text2038-1"><tspan
+         sodipodi:role="line"
+         id="tspan2036-7"
+         x="40.99749"
+         y="135.84575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">RAW SERIES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="30.587345"
+       y="34.808311"
+       id="text2038-4"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74"
+         x="30.587345"
+         y="34.808311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">In1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="41.941376"
+       y="34.748692"
+       id="text2038-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-2"
+         x="41.941376"
+         y="34.748692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Cv1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="54.210964"
+       y="34.748692"
+       id="text2038-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-4"
+         x="54.210964"
+         y="34.748692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Off1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="30.588053"
+       y="68.105057"
+       id="text2038-4-14"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-6"
+         x="30.588053"
+         y="68.105057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">In2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="41.942081"
+       y="68.045441"
+       id="text2038-4-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-2-9"
+         x="41.942081"
+         y="68.045441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Cv2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="54.211674"
+       y="68.045441"
+       id="text2038-4-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-4-2"
+         x="54.211674"
+         y="68.045441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Off2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="30.526966"
+       y="101.37844"
+       id="text2038-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-8"
+         x="30.526966"
+         y="101.37844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">In3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="41.880997"
+       y="101.3188"
+       id="text2038-4-6-18"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-2-1"
+         x="41.880997"
+         y="101.3188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Cv3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="54.150585"
+       y="101.3188"
+       id="text2038-4-4-87"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-4-23"
+         x="54.150585"
+         y="101.3188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">Off3</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0264583"
+       id="rect4094"
+       width="9.467721"
+       height="5.5458465"
+       x="65.866005"
+       y="30.857246"
+       ry="2.6726954"
+       rx="2.6726952"
+       clip-path="none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="66.808144"
+       y="34.71357"
+       id="text2038-4-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-0-9"
+         x="66.808144"
+         y="34.71357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Out1</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0264583"
+       id="rect4094-5"
+       width="9.467721"
+       height="5.5458465"
+       x="65.704391"
+       y="63.962124"
+       ry="2.6726954"
+       rx="2.6726952"
+       clip-path="none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="66.64653"
+       y="67.818451"
+       id="text2038-4-1-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-0-9-6"
+         x="66.64653"
+         y="67.818451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Out2</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0264583"
+       id="rect4094-3"
+       width="9.467721"
+       height="5.5458465"
+       x="65.687492"
+       y="97.152351"
+       ry="2.6726954"
+       rx="2.6726952"
+       clip-path="none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="66.629631"
+       y="101.00867"
+       id="text2038-4-1-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan2036-74-0-9-3"
+         x="66.629631"
+         y="101.00867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Out3</tspan></text>
+  </g>
+</svg>
