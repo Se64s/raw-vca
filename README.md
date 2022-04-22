@@ -2,6 +2,8 @@
 
 Eurorack VCA module based in EDU DIY VCA from erica synths and Moritz Klein.
 
+![raw_board](/pics/vca_pcb.jpg)
+
 # About the project
 
 This is the second module of the series 'RAW'.
@@ -16,6 +18,24 @@ In this case, I took the design of Moritz as a base for this VCA.
 
 - 3 independent VCA.
 - offset potentiometer per VCA.
+
+## Output
+
+### Square wave
+
+![sqr](/pics/sqr.jpg)
+
+### Triangle wave
+
+![tri](/pics/tri.jpg)
+
+### AR envelope
+
+![ar](/pics/ar.jpg)
+
+### Audio rate
+
+![audio](/pics/audio_rate.jpg)
 
 ## Calibration
 
